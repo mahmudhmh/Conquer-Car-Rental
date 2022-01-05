@@ -1,0 +1,68 @@
+h1 {
+  padding-left: 50px;
+  font-size: xxx-large;
+  font-family: poppins;
+  font-weight: 800;
+}
+.section {
+  background-repeat: no-repeat;
+  background-position-y: 150px;
+  background-position-x: 400px;
+}
+h6{
+  color: grey;
+  font-size: medium;
+  padding-left: 50px;
+  margin-top: 60px;
+  margin-bottom: -50px;
+  font-family: poppins;
+
+}
+
+.contents h3{
+  font-weight: 600;
+  font-size: 20px;
+  text-align: center;
+  width: 80%;
+  padding-top: 0px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+h3{
+  color: black;
+  font-size: smaller;
+  padding-left: 50px;
+  font-size: 20px;
+  margin-top: -30px;
+  margin-bottom: -50px;
+  font-family: poppins;
+  font-weight: normal;
+}
+.carspage h1 {
+  padding-left: 50px;
+  font-size: xxx-large;
+  font-family: poppins;
+  font-weight: 800;
+}
+
+.carspageh6 h6 {
+  color: grey;
+  font-size: medium;
+  padding-left: 50px;
+  margin-top: 60px;
+  margin-bottom: -50px;
+  font-family: poppins;
+}
+.carspageh3 h3 {
+  color: black;
+  font-size: smaller;
+  padding-left: 50px;
+  font-size: 20px;
+  margin-top: -30px;
+  margin-bottom: -50px;
+  font-family: poppins;
+  font-weight: normal;
+}
+.carssection{
+  text-align: center;
+}

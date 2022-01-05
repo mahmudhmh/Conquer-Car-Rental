@@ -1,0 +1,45 @@
+
+  .about-section{
+    background: url(../assets/Gtr-r34.jpg) no-repeat left;
+    background-size: 55%;
+    background-color: #fdfdfd;
+    overflow: hidden;
+    padding: 100px 0;
+  }
+  
+  .inner{
+    width: 40%;
+    float: right;
+    background-color: #f1f1f1;
+    padding: 100px;
+  }
+  
+  .inner h1{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 800;
+  }
+  .border {
+    height: 4px;
+    width: 150px;
+    background-color: rgb(245,60,28);
+  }
+  
+  .text{
+    font-size: 13px;
+    color: #545454;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+  }
+  button{
+    border: none;
+    padding: 8px 15px;
+    background-color: rgb(245,60,28);
+    color: #fff;
+  }
+  
+  button:hover{
+    text-decoration: underline;
+  }
+

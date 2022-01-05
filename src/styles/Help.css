@@ -1,0 +1,44 @@
+.Help-section{
+    background: url(../assets/helpp.jpg) no-repeat right;
+    background-size: 55%;
+    background-color: #fdfdfd;
+    overflow: hidden;
+    padding: 100px 0;
+  }
+  
+  .inner-help{
+    width: 40%;
+    float: left;
+    background-color: #f1f1f1;
+    padding: 100px;
+  }
+  
+  .inner-help h1{
+    margin-bottom: 30px;
+    font-size: 30px;
+    font-weight: 800;
+  }
+  .border-help {
+    height: 4px;
+    width: 150px;
+    background-color: rgb(255, 38, 0);
+  }
+  
+  .text-help{
+    font-size: 17px;
+    color: #545454;
+    line-height: 30px;
+    text-align: justify;
+    margin-bottom: 40px;
+  }
+  .Btn-help{
+    border: none;
+    padding: 8px 15px;
+    background-color: rgb(255, 38, 0);
+    color: #fff;
+  }
+  
+  .Btn-help:hover{
+    text-decoration: underline;
+  }
+
